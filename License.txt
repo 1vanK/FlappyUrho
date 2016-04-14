@@ -1,0 +1,34 @@
+Лицензия на код
+===============
+Public Domain
+
+
+Лицензия на кубическую текстуру
+===============================
+http://www.humus.name/index.php?page=Textures&ID=129
+Creative Commons Attribution 3.0
+Modified by 1vanK
+
+
+Лицензия на модель
+==================
+http://www.blendswap.com/blends/view/42128
+Creative Commons Attribution 3.0
+Modified by 1vanK
+
+
+Лицензии на звуки
+=================
+https://www.freesound.org/people/Robinhood76/sounds/95557/
+Creative Commons Attribution-NonCommercial 3.0
+Modified by 1vanK
+
+https://www.freesound.org/people/Nbs%20Dark/sounds/94185/
+Public Domain
+Modified by 1vanK
+
+
+Лицензия на шрифт
+=================
+http://font.ubuntu.com/
+Ubuntu Font License Version 1.0

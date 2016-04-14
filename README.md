@@ -1,7 +1,11 @@
 # Flappy Urho
-
 Клон игры Flappy Bird для статьи https://habrahabr.ru/post/280752/.<br>
 В папке Result есть скомпилированная версия.
+## Управление
+Левая кнопка мыши - прыгать<br>
+Колесо мыши - отодвинуть/приблизить камеру (в целях отладки)<br>
+Правая кнопка мыши - вернуть камеру на место<br>
+Пробел - показать/спрятать отладочную геометрию
 
 ![Screenshot](https://raw.githubusercontent.com/1vanK/FlappyUrho/master/Screen.png)
 

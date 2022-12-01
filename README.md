@@ -1,3 +1,7 @@
+*Более актуальная версия находится тут: <https://github.com/urho3d-learn/flappy-urho>.*
+
+---
+
 # Flappy Urho
 Клон игры Flappy Bird для статьи https://habrahabr.ru/post/280752/.<br>
 В папке Result есть скомпилированная версия.
